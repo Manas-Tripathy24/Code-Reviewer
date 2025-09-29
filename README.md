@@ -23,6 +23,6 @@ This project integrates **Google Gemini API (gemini-1.5-flash)** to act as a **s
 
 ## 👨‍💻 Author
 
-Developed by **Manas Ranjan Tripathy** 🚀
+Developed by **Manas Ranjan Tripathy** 
 
 ```
