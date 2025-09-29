@@ -25,4 +25,3 @@ This project integrates **Google Gemini API (gemini-2.5-flash)** to suggest impr
 
 Developed by **Manas Ranjan Tripathy** 
 
-```
