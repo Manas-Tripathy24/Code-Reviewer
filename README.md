@@ -1,7 +1,7 @@
 # 🤖 AI-Powered Code Reviewer
 
 An **AI-powered MERN stack application** that reviews source code and provides detailed feedback on quality, best practices, and improvements.  
-This project integrates **Google Gemini API (gemini-1.5-flash)** to act as a **senior code reviewer** and suggest improvements for scalability, security, readability, and maintainability.
+This project integrates **Google Gemini API (gemini-2.5-flash)** to suggest improvements for scalability, security, readability, and maintainability.
 
 ---
 
