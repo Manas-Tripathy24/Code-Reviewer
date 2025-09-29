@@ -1,4 +1,3 @@
-````markdown
 # 🤖 AI-Powered Code Reviewer
 
 An **AI-powered MERN stack application** that reviews source code and provides detailed feedback on quality, best practices, and improvements.  
@@ -32,5 +31,4 @@ This project is licensed under the MIT License.
 
 Developed by **Manas Ranjan Tripathy** 🚀
 
-```
 ```
