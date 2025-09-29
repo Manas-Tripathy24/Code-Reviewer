@@ -21,12 +21,6 @@ This project integrates **Google Gemini API (gemini-1.5-flash)** to act as a **s
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 Developed by **Manas Ranjan Tripathy** 🚀
